@@ -1,2 +1,1 @@
-C++ project 
-To solve and apply Algorithms tasks
+C++ project to solve and apply Algorithms tasks
